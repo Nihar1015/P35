@@ -19,7 +19,7 @@ class Food{
                     y=y+50;
                 }
 
-                image(milkImg, x,y,70,70);
+                image(milkImg, x,y,50,50);
                 x=x+30;
             }
             
